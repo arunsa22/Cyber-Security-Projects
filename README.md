@@ -18,7 +18,7 @@ A Password Generator helps users generate strong, secure passwords to enhance th
 #### Cybersecurity Significance: 
 This project ensures that users generate strong passwords, which are a critical part of securing online accounts and systems. The randomness and complexity of the password help mitigate brute-force and dictionary attacks.
 
-
+***
 ### PROJECT 2 - Password Manager Using Python 
 
 ##### Description:
