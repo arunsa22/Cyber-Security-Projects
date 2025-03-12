@@ -37,7 +37,7 @@ Jupyter Notebook (to interactively manage and visualize the password manager).
 #### Cybersecurity Significance: 
 A password manager improves security by ensuring passwords are not stored in plain text, thus reducing the risk of exposure during a breach. It also encourages using strong, unique passwords for each account.
 
-
+***
 ### PROJECT 3 - Web Scraping for Security Monitoring Using Python 
 
 #### Description:
