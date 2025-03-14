@@ -57,4 +57,26 @@ Regular Expressions (for identifying patterns like emails, phone numbers, or pas
 #### Cybersecurity Significance: 
 Web scraping can help cybersecurity professionals monitor websites for exposed credentials, emails, and other sensitive data, which could indicate a breach. By identifying exposed information, organizations can respond quickly to minimize risk and protect sensitive data.
 
+***
+### PROJECT 4 - Caesar Cipher Encryption
+
+#### Description:
+his project implements a simple Caesar cipher encryption algorithm in Python. The Caesar cipher is a basic encryption technique that shifts each letter in a string by a fixed number of positions in the alphabet.
+
+#### Features
+- Encrypts a given plaintext using a specified shift value.
+- Handles both uppercase and lowercase letters.
+- Maintains non-alphabet characters without modification.
+
+#### How It Works
+1. The user inputs a plaintext message.
+2. The user specifies a shift value (number of positions each letter is shifted).
+3. The program encrypts the message and displays the encrypted text.
+
+#### Technologies Used
+Jupyter Notebook used for writing and running the Python script interactively.
+String Manipulation Used to shift characters in the alphabet for encryption.
+
+#### Cybersecurity Significance
+The Caesar cipher is one of the earliest known encryption techniques and serves as a fundamental concept in cybersecurity. While it is not secure by modern standards, it is useful for understanding basic encryption principles.  
 
