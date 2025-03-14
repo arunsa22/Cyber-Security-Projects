@@ -61,7 +61,7 @@ Web scraping can help cybersecurity professionals monitor websites for exposed c
 ### PROJECT 4 - Caesar Cipher Encryption
 
 #### Description:
-his project implements a simple Caesar cipher encryption algorithm in Python. The Caesar cipher is a basic encryption technique that shifts each letter in a string by a fixed number of positions in the alphabet.
+This project implements a simple Caesar cipher encryption algorithm in Python. The Caesar cipher is a basic encryption technique that shifts each letter in a string by a fixed number of positions in the alphabet.
 
 #### Features
 - Encrypts a given plaintext using a specified shift value.
